@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojobaije.github.io/sitemap_index.ojobaije
